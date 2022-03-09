@@ -27,3 +27,5 @@ jobs:
       - name: Run a one-line script
         run: echo Hello, world! main
 
+      - name: data.json
+        run: cat data.json
